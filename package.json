@@ -1,0 +1,16 @@
+{
+	"name": "digimc-bot",
+	"version": "1.0.0",
+	"description": "Discord bot za digiMC!",
+	"main": "bot.js",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
+		"discord-api-types": "^0.37.65",
+		"discord.js": "^14.14.1",
+		"puppeteer": "^21.5.2"
+	}
+}
